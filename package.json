@@ -2,7 +2,7 @@
   "name": "hamburgueria-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://WelderBM.github.io/hamburgueria-react",
+  "homepage": "http://welderbm.github.io/hamburgueria-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
