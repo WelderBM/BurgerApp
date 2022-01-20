@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/hamburgueria-react/static/js/main.0ec44fb1.js",
+    "main.js": "/hamburgueria-react/static/js/main.02f274c4.js",
     "static/media/burger1.svg": "/hamburgueria-react/static/media/burger1.12190b357c76c5f478d49c9dadbd8355.svg",
     "static/media/burger2.svg": "/hamburgueria-react/static/media/burger2.eea8c8f7dbd7c9c5cb55839256735dbb.svg",
     "static/media/trash.svg": "/hamburgueria-react/static/media/trash.7d5433368f497ae1b71d0c70ae50d84e.svg",
     "index.html": "/hamburgueria-react/index.html",
-    "main.0ec44fb1.js.map": "/hamburgueria-react/static/js/main.0ec44fb1.js.map"
+    "main.02f274c4.js.map": "/hamburgueria-react/static/js/main.02f274c4.js.map"
   },
   "entrypoints": [
-    "static/js/main.0ec44fb1.js"
+    "static/js/main.02f274c4.js"
   ]
 }
