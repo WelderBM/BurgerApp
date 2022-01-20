@@ -28,7 +28,7 @@ const navigate = useNavigate()
       <Img src={burger1} alt='imagem da hamburgueria' />
       <Title inNewOrder={true}>Faça seu pedido!</Title>
       <Label>Pedido</Label>
-      <Input ref={inputOrder} name="pedido" type="text" placeholder="ex: 1 Coca-Cola, 1-X Salada" />
+      <Input ref={inputOrder} name="pedido" type="text" placeholder="ex: 1 Coca-Cola, 1-X Salada " />
       <Label>Nome do Cliente</Label>
       <Input ref={inputName} name="nomeCliente" type="text" placeholder="nome do cliente" />
       <Button onClick={createOrder}>Novo Pedido</Button>
