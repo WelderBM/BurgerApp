@@ -10,7 +10,7 @@ const AppRoutes = () => {
         <Router>
             <Routes>
                 <Route path="hamburgueria-react/" element={<NewOrder/>}></Route>
-                <Route path="hamburgueria-react/Orders" element={<Orders/>}></Route>
+                <Route path="/Orders" element={<Orders/>}></Route>
             </Routes>
         </Router>
     )
