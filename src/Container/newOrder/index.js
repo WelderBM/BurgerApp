@@ -20,7 +20,7 @@ const navigate = useNavigate()
 
   const createOrder = async () => {
      await axios.post('http://localhost:3001/order', { order: inputOrder.current.value, clienteName: inputName.current.value })
-    navigate("/Orders")
+    navigate("hamburgueria-react/Orders")
   }
 
   return (
